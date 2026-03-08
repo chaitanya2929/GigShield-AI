@@ -148,6 +148,7 @@ C --> K[Claim Automation Engine]
 K --> L[Payout System - Payment Sandbox]
 
 L --> M[Worker Receives Compensation]
+```
 
 ### Architecture Explanation
 
