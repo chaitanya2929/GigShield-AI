@@ -304,6 +304,12 @@ The admin dashboard allows insurance providers to monitor:
 - Fraud detection alerts
 - Risk analytics across cities
 
+## Project Vision
+
+GigShield AI aims to create a financial safety net for gig workers across India by combining AI-driven risk prediction with automated parametric insurance.
+
+Our long-term goal is to build a scalable platform that protects gig workers from unpredictable disruptions and ensures income stability in the rapidly growing gig economy.
+
 ## Development Roadmap
 
 ### Phase 1 – Ideation & System Design
