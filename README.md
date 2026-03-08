@@ -244,6 +244,66 @@ Predict disruption → Warn worker → Adjust coverage
 
 This predictive capability allows workers to better manage risk and protect their earnings.
 
+## 11. UI Wireframe (Concept)
+
+Below are the conceptual screens for the GigShield AI platform.
+
+### 1. Worker Onboarding Screen
+
+- Worker registers using phone number
+- Selects delivery platform (Swiggy / Zomato)
+- Chooses delivery zone
+
+### 2. Insurance Plan Selection
+
+Workers can choose a weekly insurance plan based on their income protection needs.
+
+Example plans:
+
+- Basic Plan – ₹15/week
+- Standard Plan – ₹25/week
+- Premium Plan – ₹40/week
+
+### 3. Worker Dashboard
+
+The dashboard displays:
+
+- Active insurance coverage
+- Income Stability Score
+- Risk alerts
+- Weekly premium status
+- Claim history
+
+Example dashboard view:
+
+Income Stability Score: **72 / 100**  
+Active Plan: **Standard Plan**  
+Coverage Status: **Active**
+
+Risk Alerts:
+⚠ Heavy rain expected tomorrow
+
+### 4. Risk Map View
+
+Workers can view disruption risk across delivery zones.
+
+Map indicators show:
+
+- High rainfall zones
+- Flood-prone areas
+- Pollution alerts
+
+This helps workers make better decisions about when and where to work.
+
+### 5. Admin Dashboard
+
+The admin dashboard allows insurance providers to monitor:
+
+- Disruption events
+- Claim statistics
+- Fraud detection alerts
+- Risk analytics across cities
+
 ## Development Roadmap
 
 ### Phase 1 – Ideation & System Design
@@ -265,4 +325,3 @@ This predictive capability allows workers to better manage risk and protect thei
 - Fraud detection system
 - Instant payout simulation
 - Risk map analytics dashboard
-
