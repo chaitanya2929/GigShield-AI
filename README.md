@@ -182,22 +182,90 @@ Workers can view:
 
 This helps workers make informed decisions about when and where to work.
 
+## 10. Income Stability Score (AI Feature)
+
+GigShield AI introduces an **Income Stability Score**, an AI-driven metric that predicts the likelihood of income disruption for gig delivery workers.
+
+The score works similarly to a credit score but focuses on **earnings stability**. It analyzes environmental, operational, and demand-related factors to estimate how stable a worker's income is expected to be in a given delivery zone.
+
+### Example
+
+Worker: Rahul  
+City: Mumbai  
+Zone: Andheri
+
+Income Stability Score: **72 / 100**  
+Risk Level: **Moderate**
+
+### How the Score is Calculated
+
+The AI model evaluates multiple factors:
+
+- Weather patterns
+- Flood history
+- Traffic congestion
+- Delivery demand trends
+- Worker activity patterns
+
+Example scoring formula:
+
+Income Stability Score =  
+Weather Risk (30%) +  
+Traffic Risk (20%) +  
+Demand Stability (30%) +  
+Historical Disruptions (20%)
+
+### Worker Dashboard View
+
+Workers can view their stability score directly in their dashboard.
+
+Example:
+
+Income Stability Score: **72 / 100**
+
+Risk Alerts  
+⚠ Heavy rain expected tomorrow  
+⚠ Delivery demand drop predicted
+
+Recommendation  
+Consider activating **Premium coverage** this week.
+
+### Why This Feature Matters
+
+Instead of only reacting to disruptions, GigShield AI can **predict income risks in advance**.
+
+Traditional flow:
+
+Detect disruption → Trigger claim
+
+GigShield AI approach:
+
+Predict disruption → Warn worker → Adjust coverage
+
+This predictive capability allows workers to better manage risk and protect their earnings.
+
 ## Development Roadmap
 
 ### Phase 1 – Ideation & System Design
+
 - Define target persona
 - Design disruption trigger logic
 - Plan AI integration
 - Create system architecture
 
 ### Phase 2 – Platform Development
+
 - Worker registration system
 - Insurance policy management
 - Dynamic premium calculation
 - Automated claim processing
 
 ### Phase 3 – Advanced Features
+
 - Fraud detection system
 - Instant payout simulation
 - Risk map analytics dashboard
+
+```
+
 ```
