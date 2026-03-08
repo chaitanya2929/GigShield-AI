@@ -266,6 +266,3 @@ This predictive capability allows workers to better manage risk and protect thei
 - Instant payout simulation
 - Risk map analytics dashboard
 
-```
-
-```
