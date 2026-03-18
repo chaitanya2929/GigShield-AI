@@ -4,8 +4,6 @@
 
 **[Watch our Strategy & Idea Pitch on Google Drive](https://drive.google.com/file/d/1wZEXMwtiGwuAiHDdw3YlAThXuXKnm6_3/view?usp=sharing)**
 
-> _Note: Please ensure you are logged in to a Google account if prompted._
-
 ---
 
 ## AI-Powered Parametric Income Protection for Gig Delivery Workers
